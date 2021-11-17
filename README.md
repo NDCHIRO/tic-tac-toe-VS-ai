@@ -1,4 +1,4 @@
-# tictactoe
+# tic tac toe
 
 player VS ai
 
